@@ -1,6 +1,6 @@
 # Student Progress Tracking System – Python Project
 
-# Project Description
+**Project Description**
 
 The Student Progress Tracking System is a Python console-based application designed to record and analyze a student’s academic performance.
 It allows users to enter student details, subject marks, calculate total and average marks, assign grades, and determine pass/fail status.
@@ -64,7 +64,7 @@ Below 35	Fail
 
 3. Exit
 
-#Learning Outcome
+# Learning Outcome
 
 This project helps beginners to:
 
