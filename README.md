@@ -6,7 +6,7 @@ The Student Progress Tracking System is a Python console-based application desig
 It allows users to enter student details, subject marks, calculate total and average marks, assign grades, and determine pass/fail status.
 
 This project is beginner-friendly and helps in understanding basic Python concepts, loops, conditionals, lists, and user input handling.
-# Features
+**Features**
 
 Accepts student details (Name, Class, Roll Number)
 
